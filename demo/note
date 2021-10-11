@@ -1,0 +1,29 @@
+oop là gì?
+-là phương pháp/ triết lí lập trình
+-quy về các đối tượng bao thuộc tính và phương thức
+-dễ dàng xử lí và mở rộng
+-gần gũi với bài toán thực tế
+
+let obj = {
+     name: "Anh",
+     age: 18
+}
+
+$arr = [
+     name => "Anh",
+     age => 18
+]
+
+ $student = [
+      name => "Anh",
+      math => 8,
+      physical => 9,
+      chemistry => 8,
+]
+
+Tính bao đóng của OOP
+- 1 đối tượng không được phép gọi thẳng đến thuộc tính (property/attribute) của 1 đối tượng khác
+- các đối tượng tương tác vói nhau thoong qua thuộc tính (mothed)
+- access Modified - mức độ truy cập
+- priveta - getter/setter
+- magic method, destruct.
